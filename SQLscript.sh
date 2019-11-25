@@ -1,4 +1,4 @@
 #!/bin/bash
 
-# user setting
+# MariaDB user setting
 sudo mysql < batch-file.sql
